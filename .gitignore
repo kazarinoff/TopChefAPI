@@ -1,6 +1,9 @@
 # wikipedia files being scraped
 wiki
 
+#virtual environment
+venv
+
 # Logs
 logs
 *.log
